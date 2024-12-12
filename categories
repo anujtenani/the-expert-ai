@@ -3,48 +3,180 @@
     "id": 1,
     "name": "Finance & Accounting",
     "description": "Professional Services for Your Financial Needs",
-    "gradientColor": "#004e92"
+    "gradientColor": "#004e92",
+    "subCat": [
+      {
+        id: 1,
+        cat_id: 1,
+        name: 'Chartered Accountants (CA)',    
+      },
+      {
+        id: 2,
+        cat_id: 1,
+        name: 'Company Secretaries (CS)',
+        
+      },
+      {
+        id: 3,
+        cat_id: 1,
+        name: 'Cost Accountants (ICWA)',  
+      },
+      {
+        id: 4,
+        cat_id: 1,
+        name: 'Actuaries',    
+      },
+    ]
   },
   {
     "id": 2,
     "name": "Legal & Compliance",
     "description": "Safeguarding Your Business with Legal Expertise",
-    "gradientColor": "#ED1C24"
+    "gradientColor": "#ED1C24",
+    "subCat": [
+      {
+        id: 1,
+        cat_id: 2,
+        name: 'Lawyers',
+      },
+      {
+        id: 2,
+        cat_id: 2,
+        name: 'Intellectual Property Lawyers',
+      },      
+    ]
   },
   {
     "id": 3,
     "name": "Marketing & Advertising",
     "description": "Your Partner in Effective Marketing and Advertising",
-    "gradientColor": "#ff5f6d"
+    "gradientColor": "#ff5f6d",
+    "subCat": [
+      {
+        id: 1,
+        cat_id: 3,
+        name: 'Digital Marketing',
+      },
+      {
+        id: 2,
+        cat_id: 3,
+        name: 'Advertising Agencies',
+      }, 
+    ]
   },
   {
     "id": 4,
     "name": "Health & Wellness",
     "description": "Wellness Services to Revitalize and Restore",
-    "gradientColor": "#1A2980"
+    "gradientColor": "#1A2980",
+    "subCat": [
+      {
+        id: 1,
+        cat_id: 4,
+        name: 'Nutritionists',
+      },
+      {
+        id: 2,
+        cat_id: 4,
+        name: 'Fitness Trainers', 
+      },
+      {
+        id: 3,
+        cat_id: 4,
+        name: 'Psychologists',
+      },
+    ]
   },
   {
     "id": 5,
     "name": "Education & Tutoring",
     "description": "Transforming Education with Expert Tutoring",
-    "gradientColor": "#6a11cb"
+    "gradientColor": "#6a11cb",
+    "subCat": [
+      {
+        id: 1,
+        cat_id: 5,
+        name: 'Academic Tutors',
+      },
+      {
+        id: 2,
+        cat_id: 5,
+        name: 'Language Teachers',
+      },
+      {
+        id: 3,
+        cat_id: 5,
+        name: 'Music Teachers',
+      },
+    ]
   },
   {
     "id": 6,
     "name": "IT & Software Development",
     "description": "Optimizing Business Through IT and Development Services",
-    "gradientColor": "#334d50"
+    "gradientColor": "#334d50",
+    "subCat": [
+      {
+        id: 1,
+        cat_id: 6,
+        name: 'Software Developers',
+      },
+      {
+        id: 2,
+        cat_id: 6,
+        name: 'Cybersecurity Experts',
+      },
+      {
+        id: 3,
+        cat_id: 6,
+        name: 'Cloud Computing Consultants',
+      },
+    ]
   },
   {
     "id": 7,
     "name": "Design & Creative",
     "description": "Creative Services for Unique and Impactful Experiences",
-    "gradientColor": "#606c88"
+    "gradientColor": "#606c88",
+    "subCat": [
+      {
+        id: 1,
+        cat_id: 7,
+        name: 'Interior Designers',
+      },
+      {
+        id: 2,
+        cat_id: 7,
+        name: 'Graphic Designers',     
+      },
+      {
+        id: 3,
+        cat_id: 7,
+        name: 'UX/UI Designers',
+      },
+    ]
   },
   {
     "id": 8,
     "name": "Construction & Real Estate",
     "description": "Innovative Construction, Trusted Real Estate Services",
-    "gradientColor": "#4e54c8"
+    "gradientColor": "#4e54c8",
+    "subCat": [
+      {
+        id: 1,
+        cat_id: 8,
+        name: 'Architects & Civil Engineers',   
+      },
+      {
+        id: 2,
+        cat_id: 8,
+        name: 'Real Estate Agents',
+      },
+      {
+        id: 3,
+        cat_id: 8,
+        name: 'Surveyors',
+      },
+    ]
   }
 ]
