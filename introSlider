@@ -1,0 +1,20 @@
+[
+  {
+    "key": "1",
+    "image": "Intro_Image_3",
+    "title": "Welcome to Our Service",
+    "description": "Join our platform and connect with skilled service professionals to meet your everyday needs."
+  },
+  {
+    "key": "2",
+    "image": "Intro_Image_1",
+    "title": "Find Trusted Professionals",
+    "description": "Browse through a wide selection of verified professionals for services such as Financial and Marketing Services, Lawyer, CA/CS Services etc."
+  },
+  {
+    "key": "3",
+    "image": "Intro_Image_2",
+    "title": "Rate and Reviews",
+    "description": "Share your feedback and help others make informed decisions by rating and reviewing the professionals you hire."
+  }
+]
