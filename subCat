@@ -1,141 +1,122 @@
 [
   {
-    id: 1,
-    cat_id: 1,
-    name: 'Chartered Accountants (CA)',
-    
+    "id": 1,
+    "cat_id": 1,
+    "name": "Chartered Accountants (CA)"
   },
   {
-    id: 2,
-    cat_id: 1,
-    name: 'Company Secretaries (CS)',
-    
+    "id": 2,
+    "cat_id": 1,
+    "name": "Company Secretaries (CS)"
   },
   {
-    id: 3,
-    cat_id: 1,
-    name: 'Cost Accountants (ICWA)',
-    
+    "id": 3,
+    "cat_id": 1,
+    "name": "Cost Accountants (ICWA)"
   },
   {
-    id: 4,
-    cat_id: 1,
-    name: 'Actuaries',
-    
+    "id": 4,
+    "cat_id": 1,
+    "name": "Actuaries"
   },
   {
-    id: 5,
-    cat_id: 2,
-    name: 'Lawyers',
-    
+    "id": 5,
+    "cat_id": 2,
+    "name": "Lawyers"
   },
   {
-    id: 6,
-    cat_id: 2,
-    name: 'Intellectual Property Lawyers',
-    
+    "id": 6,
+    "cat_id": 2,
+    "name": "Intellectual Property Lawyers"
   },
   {
-    id: 7,
-    cat_id: 3,
-    name: 'Digital Marketing',
-    
+    "id": 7,
+    "cat_id": 3,
+    "name": "Digital Marketing"
   },
   {
-    id: 8,
-    cat_id: 3,
-    name: 'Advertising Agencies',
-    
+    "id": 8,
+    "cat_id": 3,
+    "name": "Advertising Agencies"
   },
   {
-    id: 9,
-    cat_id: 4,
-    name: 'Nutritionists',
-    
+    "id": 9,
+    "cat_id": 4,
+    "name": "Nutritionists"
   },
   {
-    id: 10,
-    cat_id: 4,
-    name: 'Fitness Trainers',
-    
+    "id": 10,
+    "cat_id": 4,
+    "name": "Fitness Trainers"
   },
   {
-    id: 11,
-    cat_id: 4,
-    name: 'Psychologists',
-    
+    "id": 11,
+    "cat_id": 4,
+    "name": "Psychologists"
   },
   {
-    id: 12,
-    cat_id: 5,
-    name: 'Academic Tutors',
-    
+    "id": 12,
+    "cat_id": 5,
+    "name": "Academic Tutors"
   },
   {
-    id: 13,
-    cat_id: 5,
-    name: 'Language Teachers',
-    
+    "id": 13,
+    "cat_id": 5,
+    "name": "Language Teachers"
   },
   {
-    id: 14,
-    cat_id: 5,
-    name: 'Music Teachers',
-    
+    "id": 14,
+    "cat_id": 5,
+    "name": "Music Teachers"
   },
   {
-    id: 15,
-    cat_id: 6,
-    name: 'Software Developers',
-    
+    "id": 15,
+    "cat_id": 6,
+    "name": "Software Developers"
   },
   {
-    id: 16,
-    cat_id: 6,
-    name: 'Cybersecurity Experts',
-    
+    "id": 16,
+    "cat_id": 6,
+    "name": "Cybersecurity Experts"
   },
   {
-    id: 17,
-    cat_id: 6,
-    name: 'Cloud Computing Consultants',
-    
+    "id": 17,
+    "cat_id": 6,
+    "name": "Cloud Computing Consultants"
   },
   {
-    id: 18,
-    cat_id: 7,
-    name: 'Interior Designers',
-    
+    "id": 18,
+    "cat_id": 7,
+    "name": "Interior Designers"
   },
   {
-    id: 19,
-    cat_id: 7,
-    name: 'Graphic Designers',
-    
+    "id": 19,
+    "cat_id": 7,
+    "name": "Graphic Designers"
   },
   {
-    id: 20,
-    cat_id: 7,
-    name: 'UX/UI Designers',
-    
+    "id": 20,
+    "cat_id": 7,
+    "name": "UX/UI Designers"
   },
   {
-    id: 21,
-    cat_id: 8,
-    name: 'Architects & Civil Engineers',
-    
+    "id": 21,
+    "cat_id": 8,
+    "name": "Architects & Civil Engineers"
   },
   {
-    id: 22,
-    cat_id: 8,
-    name: 'Real Estate Agents',
-    
+    "id": 22,
+    "cat_id": 8,
+    "name": "Real Estate Agents"
   },
   {
-    id: 23,
-    cat_id: 8,
-    name: 'Surveyors',
-    
-  },
-  
+    "id": 23,
+    "cat_id": 8,
+    "name": "Surveyors"
+  }
 ]
+
+
+
+
+
