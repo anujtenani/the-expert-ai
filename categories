@@ -6,26 +6,25 @@
     "gradientColor": "#004e92",
     "subCat": [
       {
-        id: 1,
-        cat_id: 1,
-        name: 'Chartered Accountants (CA)',    
+        "id": 1,
+        "cat_id": 1,
+        "name": "Chartered Accountants (CA)"
       },
       {
-        id: 2,
-        cat_id: 1,
-        name: 'Company Secretaries (CS)',
-        
+        "id": 2,
+        "cat_id": 1,
+        "name": "Company Secretaries (CS)"
       },
       {
-        id: 3,
-        cat_id: 1,
-        name: 'Cost Accountants (ICWA)',  
+        "id": 3,
+        "cat_id": 1,
+        "name": "Cost Accountants (ICWA)"
       },
       {
-        id: 4,
-        cat_id: 1,
-        name: 'Actuaries',    
-      },
+        "id": 4,
+        "cat_id": 1,
+        "name": "Actuaries"
+      }
     ]
   },
   {
@@ -35,15 +34,15 @@
     "gradientColor": "#ED1C24",
     "subCat": [
       {
-        id: 1,
-        cat_id: 2,
-        name: 'Lawyers',
+        "id": 1,
+        "cat_id": 2,
+        "name": "Lawyers"
       },
       {
-        id: 2,
-        cat_id: 2,
-        name: 'Intellectual Property Lawyers',
-      },      
+        "id": 2,
+        "cat_id": 2,
+        "name": "Intellectual Property Lawyers"
+      }
     ]
   },
   {
@@ -53,15 +52,15 @@
     "gradientColor": "#ff5f6d",
     "subCat": [
       {
-        id: 1,
-        cat_id: 3,
-        name: 'Digital Marketing',
+        "id": 1,
+        "cat_id": 3,
+        "name": "Digital Marketing"
       },
       {
-        id: 2,
-        cat_id: 3,
-        name: 'Advertising Agencies',
-      }, 
+        "id": 2,
+        "cat_id": 3,
+        "name": "Advertising Agencies"
+      }
     ]
   },
   {
@@ -71,20 +70,20 @@
     "gradientColor": "#1A2980",
     "subCat": [
       {
-        id: 1,
-        cat_id: 4,
-        name: 'Nutritionists',
+        "id": 1,
+        "cat_id": 4,
+        "name": "Nutritionists"
       },
       {
-        id: 2,
-        cat_id: 4,
-        name: 'Fitness Trainers', 
+        "id": 2,
+        "cat_id": 4,
+        "name": "Fitness Trainers"
       },
       {
-        id: 3,
-        cat_id: 4,
-        name: 'Psychologists',
-      },
+        "id": 3,
+        "cat_id": 4,
+        "name": "Psychologists"
+      }
     ]
   },
   {
@@ -94,20 +93,20 @@
     "gradientColor": "#6a11cb",
     "subCat": [
       {
-        id: 1,
-        cat_id: 5,
-        name: 'Academic Tutors',
+        "id": 1,
+        "cat_id": 5,
+        "name": "Academic Tutors"
       },
       {
-        id: 2,
-        cat_id: 5,
-        name: 'Language Teachers',
+        "id": 2,
+        "cat_id": 5,
+        "name": "Language Teachers"
       },
       {
-        id: 3,
-        cat_id: 5,
-        name: 'Music Teachers',
-      },
+        "id": 3,
+        "cat_id": 5,
+        "name": "Music Teachers"
+      }
     ]
   },
   {
@@ -117,20 +116,20 @@
     "gradientColor": "#334d50",
     "subCat": [
       {
-        id: 1,
-        cat_id: 6,
-        name: 'Software Developers',
+        "id": 1,
+        "cat_id": 6,
+        "name": "Software Developers"
       },
       {
-        id: 2,
-        cat_id: 6,
-        name: 'Cybersecurity Experts',
+        "id": 2,
+        "cat_id": 6,
+        "name": "Cybersecurity Experts"
       },
       {
-        id: 3,
-        cat_id: 6,
-        name: 'Cloud Computing Consultants',
-      },
+        "id": 3,
+        "cat_id": 6,
+        "name": "Cloud Computing Consultants"
+      }
     ]
   },
   {
@@ -140,20 +139,20 @@
     "gradientColor": "#606c88",
     "subCat": [
       {
-        id: 1,
-        cat_id: 7,
-        name: 'Interior Designers',
+        "id": 1,
+        "cat_id": 7,
+        "name": "Interior Designers"
       },
       {
-        id: 2,
-        cat_id: 7,
-        name: 'Graphic Designers',     
+        "id": 2,
+        "cat_id": 7,
+        "name": "Graphic Designers"
       },
       {
-        id: 3,
-        cat_id: 7,
-        name: 'UX/UI Designers',
-      },
+        "id": 3,
+        "cat_id": 7,
+        "name": "UX/UI Designers"
+      }
     ]
   },
   {
@@ -163,20 +162,20 @@
     "gradientColor": "#4e54c8",
     "subCat": [
       {
-        id: 1,
-        cat_id: 8,
-        name: 'Architects & Civil Engineers',   
+        "id": 1,
+        "cat_id": 8,
+        "name": "Architects & Civil Engineers"
       },
       {
-        id: 2,
-        cat_id: 8,
-        name: 'Real Estate Agents',
+        "id": 2,
+        "cat_id": 8,
+        "name": "Real Estate Agents"
       },
       {
-        id: 3,
-        cat_id: 8,
-        name: 'Surveyors',
-      },
+        "id": 3,
+        "cat_id": 8,
+        "name": "Surveyors"
+      }
     ]
   }
 ]
