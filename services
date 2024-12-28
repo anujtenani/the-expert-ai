@@ -1,0 +1,802 @@
+[
+  {
+    "id": "svc001",
+    "name": "Bookkeeping Services",
+    "catId": 1
+  },
+  {
+    "id": "svc002",
+    "name": "Financial Statement Preparation",
+    "catId": 1
+  },
+  {
+    "id": "svc003",
+    "name": "Tax Planning and Preparation",
+    "catId": 1
+  },
+  {
+    "id": "svc004",
+    "name": "Payroll Processing",
+    "catId": 1
+  },
+  {
+    "id": "svc005",
+    "name": "Accounts Payable Management",
+    "catId": 1
+  },
+  {
+    "id": "svc006",
+    "name": "Accounts Receivable Management",
+    "catId": 1
+  },
+  {
+    "id": "svc007",
+    "name": "Budgeting and Forecasting",
+    "catId": 1
+  },
+  {
+    "id": "svc008",
+    "name": "Financial Analysis and Reporting",
+    "catId": 1
+  },
+  {
+    "id": "svc009",
+    "name": "Cash Flow Management",
+    "catId": 1
+  },
+  {
+    "id": "svc010",
+    "name": "Internal Auditing",
+    "catId": 1
+  },
+  {
+    "id": "svc011",
+    "name": "External Auditing",
+    "catId": 1
+  },
+  {
+    "id": "svc012",
+    "name": "Business Valuation Services",
+    "catId": 1
+  },
+  {
+    "id": "svc013",
+    "name": "Inventory Accounting",
+    "catId": 1
+  },
+  {
+    "id": "svc014",
+    "name": "Fixed Asset Accounting",
+    "catId": 1
+  },
+  {
+    "id": "svc015",
+    "name": "Financial Risk Management",
+    "catId": 1
+  },
+  {
+    "id": "svc016",
+    "name": "Forensic Accounting",
+    "catId": 1
+  },
+  {
+    "id": "svc017",
+    "name": "Compliance and Regulatory Reporting",
+    "catId": 1
+  },
+  {
+    "id": "svc018",
+    "name": "Cost Accounting",
+    "catId": 1
+  },
+  {
+    "id": "svc019",
+    "name": "Strategic Financial Planning",
+    "catId": 1
+  },
+  {
+    "id": "svc020",
+    "name": "Tax Compliance Services",
+    "catId": 1
+  },
+  {
+    "id": "svc021",
+    "name": "Contract Drafting and Review",
+    "catId": 2
+  },
+  {
+    "id": "svc022",
+    "name": "Legal Advisory Services",
+    "catId": 2
+  },
+  {
+    "id": "svc023",
+    "name": "Corporate Governance",
+    "catId": 2
+  },
+  {
+    "id": "svc024",
+    "name": "Intellectual Property Management",
+    "catId": 2
+  },
+  {
+    "id": "svc025",
+    "name": "Regulatory Compliance Audits",
+    "catId": 2
+  },
+  {
+    "id": "svc026",
+    "name": "Dispute Resolution and Arbitration",
+    "catId": 2
+  },
+  {
+    "id": "svc027",
+    "name": "Employment Law Compliance",
+    "catId": 2
+  },
+  {
+    "id": "svc028",
+    "name": "Litigation Support",
+    "catId": 2
+  },
+  {
+    "id": "svc029",
+    "name": "Risk Assessment and Mitigation",
+    "catId": 2
+  },
+  {
+    "id": "svc030",
+    "name": "Corporate Entity Formation",
+    "catId": 2
+  },
+  {
+    "id": "svc031",
+    "name": "Mergers and Acquisitions Support",
+    "catId": 2
+  },
+  {
+    "id": "svc032",
+    "name": "Compliance Training Programs",
+    "catId": 2
+  },
+  {
+    "id": "svc033",
+    "name": "Anti-Bribery and Corruption Compliance",
+    "catId": 2
+  },
+  {
+    "id": "svc034",
+    "name": "Data Protection and Privacy Compliance",
+    "catId": 2
+  },
+  {
+    "id": "svc035",
+    "name": "Regulatory Filing and Documentation",
+    "catId": 2
+  },
+  {
+    "id": "svc036",
+    "name": "Environmental Compliance",
+    "catId": 2
+  },
+  {
+    "id": "svc037",
+    "name": "Customs and Trade Compliance",
+    "catId": 2
+  },
+  {
+    "id": "svc038",
+    "name": "Healthcare Compliance Services",
+    "catId": 2
+  },
+  {
+    "id": "svc039",
+    "name": "Intellectual Property Protection",
+    "catId": 2
+  },
+  {
+    "id": "svc040",
+    "name": "Whistleblower Policy Management",
+    "catId": 2
+  },
+  {
+    "id": "svc041",
+    "name": "Social Media Marketing",
+    "catId": 3
+  },
+  {
+    "id": "svc042",
+    "name": "Content Creation and Marketing",
+    "catId": 3
+  },
+  {
+    "id": "svc043",
+    "name": "Search Engine Optimization (SEO)",
+    "catId": 3
+  },
+  {
+    "id": "svc044",
+    "name": "Pay-Per-Click (PPC) Advertising",
+    "catId": 3
+  },
+  {
+    "id": "svc045",
+    "name": "Email Marketing Campaigns",
+    "catId": 3
+  },
+  {
+    "id": "svc046",
+    "name": "Influencer Marketing",
+    "catId": 3
+  },
+  {
+    "id": "svc047",
+    "name": "Brand Strategy Development",
+    "catId": 3
+  },
+  {
+    "id": "svc048",
+    "name": "Marketing Analytics and Reporting",
+    "catId": 3
+  },
+  {
+    "id": "svc049",
+    "name": "Digital Marketing Strategy",
+    "catId": 3
+  },
+  {
+    "id": "svc050",
+    "name": "Public Relations Campaigns",
+    "catId": 3
+  },
+  {
+    "id": "svc051",
+    "name": "Market Research and Analysis",
+    "catId": 3
+  },
+  {
+    "id": "svc052",
+    "name": "Event Marketing and Management",
+    "catId": 3
+  },
+  {
+    "id": "svc053",
+    "name": "Graphic Design and Branding",
+    "catId": 3
+  },
+  {
+    "id": "svc054",
+    "name": "Video Production and Marketing",
+    "catId": 3
+  },
+  {
+    "id": "svc055",
+    "name": "Affiliate Marketing",
+    "catId": 3
+  },
+  {
+    "id": "svc056",
+    "name": "Product Launch Campaigns",
+    "catId": 3
+  },
+  {
+    "id": "svc057",
+    "name": "Search Engine Marketing (SEM)",
+    "catId": 3
+  },
+  {
+    "id": "svc058",
+    "name": "Mobile Advertising",
+    "catId": 3
+  },
+  {
+    "id": "svc059",
+    "name": "Native Advertising",
+    "catId": 3
+  },
+  {
+    "id": "svc060",
+    "name": "Reputation Management",
+    "catId": 3
+  },
+  {
+    "id": "svc061",
+    "name": "Personal Training Sessions",
+    "catId": 4
+  },
+  {
+    "id": "svc062",
+    "name": "Nutrition Counseling",
+    "catId": 4
+  },
+  {
+    "id": "svc063",
+    "name": "Mental Health Therapy",
+    "catId": 4
+  },
+  {
+    "id": "svc064",
+    "name": "Yoga Classes",
+    "catId": 4
+  },
+  {
+    "id": "svc065",
+    "name": "Meditation and Mindfulness Coaching",
+    "catId": 4
+  },
+  {
+    "id": "svc066",
+    "name": "Chiropractic Services",
+    "catId": 4
+  },
+  {
+    "id": "svc067",
+    "name": "Massage Therapy",
+    "catId": 4
+  },
+  {
+    "id": "svc068",
+    "name": "Acupuncture Sessions",
+    "catId": 4
+  },
+  {
+    "id": "svc069",
+    "name": "Physical Therapy",
+    "catId": 4
+  },
+  {
+    "id": "svc070",
+    "name": "Health and Wellness Coaching",
+    "catId": 4
+  },
+  {
+    "id": "svc071",
+    "name": "Holistic Health Services",
+    "catId": 4
+  },
+  {
+    "id": "svc072",
+    "name": "Weight Management Programs",
+    "catId": 4
+  },
+  {
+    "id": "svc073",
+    "name": "Fitness Boot Camps",
+    "catId": 4
+  },
+  {
+    "id": "svc074",
+    "name": "Rehabilitation Services",
+    "catId": 4
+  },
+  {
+    "id": "svc075",
+    "name": "Sleep Therapy",
+    "catId": 4
+  },
+  {
+    "id": "svc076",
+    "name": "Aromatherapy",
+    "catId": 4
+  },
+  {
+    "id": "svc077",
+    "name": "Hydrotherapy",
+    "catId": 4
+  },
+  {
+    "id": "svc078",
+    "name": "Wellness Retreat Programs",
+    "catId": 4
+  },
+  {
+    "id": "svc079",
+    "name": "Chronic Disease Management",
+    "catId": 4
+  },
+  {
+    "id": "svc080",
+    "name": "Stress Management Workshops",
+    "catId": 4
+  },
+  {
+    "id": "svc081",
+    "name": "Private Tutoring",
+    "catId": 5
+  },
+  {
+    "id": "svc082",
+    "name": "Online Course Creation",
+    "catId": 5
+  },
+  {
+    "id": "svc083",
+    "name": "Test Preparation Services",
+    "catId": 5
+  },
+  {
+    "id": "svc084",
+    "name": "Language Learning Classes",
+    "catId": 5
+  },
+  {
+    "id": "svc085",
+    "name": "STEM Tutoring",
+    "catId": 5
+  },
+  {
+    "id": "svc086",
+    "name": "Arts and Music Lessons",
+    "catId": 5
+  },
+  {
+    "id": "svc087",
+    "name": "Homework Assistance",
+    "catId": 5
+  },
+  {
+    "id": "svc088",
+    "name": "Special Education Services",
+    "catId": 5
+  },
+  {
+    "id": "svc089",
+    "name": "Early Childhood Education",
+    "catId": 5
+  },
+  {
+    "id": "svc090",
+    "name": "Study Abroad Counseling",
+    "catId": 5
+  },
+  {
+    "id": "svc091",
+    "name": "Exam Grading and Feedback",
+    "catId": 5
+  },
+  {
+    "id": "svc092",
+    "name": "Career Counseling and Guidance",
+    "catId": 5
+  },
+  {
+    "id": "svc093",
+    "name": "College Admissions Coaching",
+    "catId": 5
+  },
+  {
+    "id": "svc094",
+    "name": "Educational Workshops",
+    "catId": 5
+  },
+  {
+    "id": "svc095",
+    "name": "E-Learning Platform Development",
+    "catId": 5
+  },
+  {
+    "id": "svc096",
+    "name": "Reading and Literacy Programs",
+    "catId": 5
+  },
+  {
+    "id": "svc097",
+    "name": "Parenting Education Classes",
+    "catId": 5
+  },
+  {
+    "id": "svc098",
+    "name": "Vocational Training",
+    "catId": 5
+  },
+  {
+    "id": "svc099",
+    "name": "Public Speaking and Communication Skills Training",
+    "catId": 5
+  },
+  {
+    "id": "svc100",
+    "name": "Advanced Placement (AP) Test Prep",
+    "catId": 5
+  },
+  {
+    "id": "svc101",
+    "name": "Custom Software Development",
+    "catId": 6
+  },
+  {
+    "id": "svc102",
+    "name": "Mobile App Development",
+    "catId": 6
+  },
+  {
+    "id": "svc103",
+    "name": "Web Development",
+    "catId": 6
+  },
+  {
+    "id": "svc104",
+    "name": "Cloud Solutions and Integration",
+    "catId": 6
+  },
+  {
+    "id": "svc105",
+    "name": "IT Infrastructure Setup and Management",
+    "catId": 6
+  },
+  {
+    "id": "svc106",
+    "name": "Cybersecurity Services",
+    "catId": 6
+  },
+  {
+    "id": "svc107",
+    "name": "DevOps Services",
+    "catId": 6
+  },
+  {
+    "id": "svc108",
+    "name": "Software Testing and QA",
+    "catId": 6
+  },
+  {
+    "id": "svc109",
+    "name": "Database Design and Management",
+    "catId": 6
+  },
+  {
+    "id": "svc110",
+    "name": "IT Consulting",
+    "catId": 6
+  },
+  {
+    "id": "svc111",
+    "name": "ERP Implementation and Support",
+    "catId": 6
+  },
+  {
+    "id": "svc112",
+    "name": "AI and Machine Learning Solutions",
+    "catId": 6
+  },
+  {
+    "id": "svc113",
+    "name": "Blockchain Development",
+    "catId": 6
+  },
+  {
+    "id": "svc114",
+    "name": "IoT Development Services",
+    "catId": 6
+  },
+  {
+    "id": "svc115",
+    "name": "API Development and Integration",
+    "catId": 6
+  },
+  {
+    "id": "svc116",
+    "name": "IT Support and Maintenance",
+    "catId": 6
+  },
+  {
+    "id": "svc117",
+    "name": "Game Development",
+    "catId": 6
+  },
+  {
+    "id": "svc118",
+    "name": "Big Data Analytics",
+    "catId": 6
+  },
+  {
+    "id": "svc119",
+    "name": "AR and VR Development",
+    "catId": 6
+  },
+  {
+    "id": "svc120",
+    "name": "E-Commerce Development",
+    "catId": 6
+  },
+  {
+    "id": "svc121",
+    "name": "Graphic Design",
+    "catId": 7
+  },
+  {
+    "id": "svc122",
+    "name": "Logo Design",
+    "catId": 7
+  },
+  {
+    "id": "svc123",
+    "name": "UI/UX Design",
+    "catId": 7
+  },
+  {
+    "id": "svc124",
+    "name": "Web Design",
+    "catId": 7
+  },
+  {
+    "id": "svc125",
+    "name": "Product Packaging Design",
+    "catId": 7
+  },
+  {
+    "id": "svc126",
+    "name": "Animation and Motion Graphics",
+    "catId": 7
+  },
+  {
+    "id": "svc127",
+    "name": "3D Modeling and Design",
+    "catId": 7
+  },
+  {
+    "id": "svc128",
+    "name": "Illustration Services",
+    "catId": 7
+  },
+  {
+    "id": "svc129",
+    "name": "Brand Identity Design",
+    "catId": 7
+  },
+  {
+    "id": "svc130",
+    "name": "Photography Services",
+    "catId": 7
+  },
+  {
+    "id": "svc131",
+    "name": "Interior Design",
+    "catId": 7
+  },
+  {
+    "id": "svc132",
+    "name": "Fashion Design",
+    "catId": 7
+  },
+  {
+    "id": "svc133",
+    "name": "Video Editing",
+    "catId": 7
+  },
+  {
+    "id": "svc134",
+    "name": "Illustration and Caricature Art",
+    "catId": 7
+  },
+  {
+    "id": "svc135",
+    "name": "Infographic Design",
+    "catId": 7
+  },
+  {
+    "id": "svc136",
+    "name": "Exhibition and Trade Show Design",
+    "catId": 7
+  },
+  {
+    "id": "svc137",
+    "name": "Print Design Services",
+    "catId": 7
+  },
+  {
+    "id": "svc138",
+    "name": "Character Design",
+    "catId": 7
+  },
+  {
+    "id": "svc139",
+    "name": "Corporate Presentation Design",
+    "catId": 7
+  },
+  {
+    "id": "svc140",
+    "name": "Digital Art and Concept Design",
+    "catId": 7
+  },
+  {
+    "id": "svc141",
+    "name": "Architectural Design",
+    "catId": 8
+  },
+  {
+    "id": "svc142",
+    "name": "Building Construction",
+    "catId": 8
+  },
+  {
+    "id": "svc143",
+    "name": "Property Management Services",
+    "catId": 8
+  },
+  {
+    "id": "svc144",
+    "name": "Home Renovation",
+    "catId": 8
+  },
+  {
+    "id": "svc145",
+    "name": "Real Estate Brokerage",
+    "catId": 8
+  },
+  {
+    "id": "svc146",
+    "name": "Interior Remodeling",
+    "catId": 8
+  },
+  {
+    "id": "svc147",
+    "name": "Land Surveying Services",
+    "catId": 8
+  },
+  {
+    "id": "svc148",
+    "name": "Construction Project Management",
+    "catId": 8
+  },
+  {
+    "id": "svc149",
+    "name": "Real Estate Investment Consulting",
+    "catId": 8
+  },
+  {
+    "id": "svc150",
+    "name": "Green Building Solutions",
+    "catId": 8
+  },
+  {
+    "id": "svc151",
+    "name": "Landscape Design and Construction",
+    "catId": 8
+  },
+  {
+    "id": "svc152",
+    "name": "Property Valuation",
+    "catId": 8
+  },
+  {
+    "id": "svc153",
+    "name": "Commercial Property Leasing",
+    "catId": 8
+  },
+  {
+    "id": "svc154",
+    "name": "Residential Property Sales",
+    "catId": 8
+  },
+  {
+    "id": "svc155",
+    "name": "Plumbing and Electrical Services",
+    "catId": 8
+  },
+  {
+    "id": "svc156",
+    "name": "Custom Home Building",
+    "catId": 8
+  },
+  {
+    "id": "svc157",
+    "name": "Real Estate Marketing",
+    "catId": 8
+  },
+  {
+    "id": "svc158",
+    "name": "Property Staging Services",
+    "catId": 8
+  },
+  {
+    "id": "svc159",
+    "name": "Construction Equipment Rental",
+    "catId": 8
+  },
+  {
+    "id": "svc160",
+    "name": "Energy Efficiency Audits",
+    "catId": 8
+  }
+]
